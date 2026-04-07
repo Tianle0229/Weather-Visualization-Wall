@@ -106,4 +106,4 @@ The workflow in the CPEE process is as follows:
 
 You can watch a demo of the system here:
 
-[![Demo](./screenshots/demo.gif)](./screenshots/demo.mp4)
+[▶️ Watch Demo Video](./screenshots/demo.mp4)
